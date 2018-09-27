@@ -1,0 +1,22 @@
+- Staging
+- Commit
+- .gitignore
+- branching
+- merging/merge conflicts
+- stash
+- remote repository config
+- push 
+
+
+
+
+
+
+
+
+
+
+
+
+topics to be done
+- configure mergetool(winmerge)
